@@ -1,0 +1,5 @@
+Flask==3.0.0
+ccxt==4.2.14
+pandas
+numpy
+gunicorn
